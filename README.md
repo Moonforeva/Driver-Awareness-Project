@@ -17,6 +17,7 @@ pip install numpy
 ## Usage
 Run using the following commands
 ```bash
+cd src
 # If using a webcam
 python driver_awareness.py 
 # If using video
